@@ -130,9 +130,7 @@ graph TD
 
 ## Author
 
-**Dr. Sarmad Mueen**
-* GitHub: [@your-github-username](https://github.com/your-github-username)
----
+**Sarmad Mueen**
 
 ## License
 
