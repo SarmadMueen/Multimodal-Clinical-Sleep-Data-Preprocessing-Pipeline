@@ -74,13 +74,12 @@ graph TD
     ```
 
  **Install the required Python libraries:**
-    ```
+
     numpy
     matplotlib
     scikit-image
     pandas
     ffmpeg-python
-    ```
 
 ---
 
