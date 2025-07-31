@@ -71,8 +71,6 @@ graph TD
 
 ## Installation
 
-    ```
-
  **Install the required Python libraries:**
 
     numpy
